@@ -13,6 +13,6 @@ public class HelloController {
 
     @RequestMapping("/info")
     public String info(){
-        return "hello jenkins";
+        return "hello jenkins!!!";
     }
 }
